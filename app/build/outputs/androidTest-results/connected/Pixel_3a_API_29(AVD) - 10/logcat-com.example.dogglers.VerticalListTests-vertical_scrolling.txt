@@ -1,0 +1,129 @@
+10-06 00:34:52.407  8614  8645 I TestRunner: started: vertical_scrolling(com.example.dogglers.VerticalListTests)
+10-06 00:34:52.409  8614  8614 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@67ac601 in: DESTROYED
+10-06 00:34:52.434  8614  8645 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+10-06 00:34:52.455  2046  2069 E system_server: Invalid ID 0x00000000.
+10-06 00:34:52.460  2046  2063 W InputReader: Device has associated, but no associated display id.
+10-06 00:34:52.463  2046  2063 I chatty  : uid=1000(system) Binder:2046_2 identical 38 lines
+10-06 00:34:52.463  2046  2063 W InputReader: Device has associated, but no associated display id.
+10-06 00:34:52.464  8614  8614 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@bf4f02c
+10-06 00:34:52.472  8614  8614 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@67fdaf5 in: PRE_ON_CREATE
+10-06 00:34:52.472  8614  8614 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@67fdaf5
+10-06 00:34:52.475  1794  2469 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 9592832
+10-06 00:34:52.499  8614  8614 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@67fdaf5 in: CREATED
+10-06 00:34:52.499  8614  8614 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@67fdaf5
+10-06 00:34:52.503  8614  8614 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@67fdaf5 in: STARTED
+10-06 00:34:52.503  8614  8614 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@67fdaf5
+10-06 00:34:52.510  8614  8614 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@67fdaf5 in: RESUMED
+10-06 00:34:52.510  8614  8614 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@67fdaf5
+10-06 00:34:52.513  8614  8614 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@67fdaf5 in: PAUSED
+10-06 00:34:52.513  8614  8614 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@67fdaf5
+10-06 00:34:52.514  2046  2426 W InputReader: Device has associated, but no associated display id.
+10-06 00:34:52.519  2046  2426 I chatty  : uid=1000(system) Binder:2046_8 identical 48 lines
+10-06 00:34:52.519  2046  2426 W InputReader: Device has associated, but no associated display id.
+10-06 00:34:52.521  8614  8614 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@10e46fb
+10-06 00:34:52.524  2046  2069 W InputReader: Device has associated, but no associated display id.
+10-06 00:34:52.524  2046  2069 I chatty  : uid=1000(system) android.anim identical 8 lines
+10-06 00:34:52.524  2046  2069 W InputReader: Device has associated, but no associated display id.
+10-06 00:34:52.533  8614  8620 I xample.doggler: JIT allocated 70KB for compiled code of void android.view.View.<init>(android.content.Context, android.util.AttributeSet, int, int)
+10-06 00:34:52.537  8614  8614 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@17057d7 in: PRE_ON_CREATE
+10-06 00:34:52.537  8614  8614 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+10-06 00:34:52.541  6220  7629 D EGL_emulation: eglMakeCurrent: 0xeab7f1c0: ver 3 0 (tinfo 0xdfae05d0)
+10-06 00:34:52.541  2444  3056 D EGL_emulation: eglMakeCurrent: 0xd791a120: ver 3 0 (tinfo 0xd790f430)
+10-06 00:34:52.543  2191  2496 D EGL_emulation: eglMakeCurrent: 0xeab52ae0: ver 3 0 (tinfo 0xbf63dd80)
+10-06 00:34:52.550  2191  2496 D EGL_emulation: eglMakeCurrent: 0xeab52ae0: ver 3 0 (tinfo 0xbf63dd80)
+10-06 00:34:52.556  8614  8614 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@17057d7 in: CREATED
+10-06 00:34:52.557  8614  8614 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.dogglers.VerticalListActivity@17057d7
+10-06 00:34:52.564  8614  8614 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@17057d7 in: STARTED
+10-06 00:34:52.564  8614  8614 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.dogglers.VerticalListActivity@17057d7
+10-06 00:34:52.566  8614  8614 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@17057d7 in: RESUMED
+10-06 00:34:52.566  2191  2496 D EGL_emulation: eglMakeCurrent: 0xeab52ae0: ver 3 0 (tinfo 0xbf63dd80)
+10-06 00:34:52.566  8614  8614 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.dogglers.VerticalListActivity@17057d7
+10-06 00:34:52.571  2191  2496 D EGL_emulation: eglMakeCurrent: 0xeab52ae0: ver 3 0 (tinfo 0xbf63dd80)
+10-06 00:34:52.597  2191  2496 I chatty  : uid=10101(com.android.systemui) RenderThread identical 3 lines
+10-06 00:34:52.605  2191  2496 D EGL_emulation: eglMakeCurrent: 0xeab52ae0: ver 3 0 (tinfo 0xbf63dd80)
+10-06 00:34:52.614  1794  2469 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 9592832
+10-06 00:34:52.620  2191  2496 D EGL_emulation: eglMakeCurrent: 0xeab52ae0: ver 3 0 (tinfo 0xbf63dd80)
+10-06 00:34:52.626  1794  2469 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 9592832
+10-06 00:34:52.630  1794  2469 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 9592832
+10-06 00:34:52.644  2191  2496 D EGL_emulation: eglMakeCurrent: 0xeab52ae0: ver 3 0 (tinfo 0xbf63dd80)
+10-06 00:34:52.648  2191  2496 I chatty  : uid=10101(com.android.systemui) RenderThread identical 1 line
+10-06 00:34:52.673  2191  2496 D EGL_emulation: eglMakeCurrent: 0xeab52ae0: ver 3 0 (tinfo 0xbf63dd80)
+10-06 00:34:52.683  8614  8647 D EGL_emulation: eglMakeCurrent: 0xeab544c0: ver 3 0 (tinfo 0xdf9f4530)
+10-06 00:34:52.697  2191  2496 D EGL_emulation: eglMakeCurrent: 0xeab52ae0: ver 3 0 (tinfo 0xbf63dd80)
+10-06 00:34:52.699  2046  2073 I ActivityTaskManager: Displayed com.example.dogglers/.VerticalListActivity: +256ms
+10-06 00:34:52.700  2191  2496 D EGL_emulation: eglMakeCurrent: 0xeab52ae0: ver 3 0 (tinfo 0xbf63dd80)
+10-06 00:34:52.718  8614  8614 I ViewInteraction: Performing 'fast swipe' action on view view.getId() is <2131231206/com.example.dogglers:id/vertical_recycler_view>
+10-06 00:34:52.727  2046  2141 V InputDispatcher: Asynchronous input event injection succeeded.
+10-06 00:34:52.732  8614  8614 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@67fdaf5 in: STOPPED
+10-06 00:34:52.732  8614  8614 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@67fdaf5
+10-06 00:34:52.741  2046  2141 V InputDispatcher: Asynchronous input event injection succeeded.
+10-06 00:34:52.742  6220  8054 I PBSessionCacheImpl: (REDACTED) Deleted sessionId[%d] from persistence.
+10-06 00:34:52.757  2046  2141 V InputDispatcher: Asynchronous input event injection succeeded.
+10-06 00:34:52.787  2046  2141 I chatty  : uid=1000(system) InputDispatcher identical 2 lines
+10-06 00:34:52.801  2046  2141 V InputDispatcher: Asynchronous input event injection succeeded.
+10-06 00:34:52.803  6220  6284 W SearchServiceCore: Abort, client detached.
+10-06 00:34:52.816  2046  2141 V InputDispatcher: Asynchronous input event injection succeeded.
+10-06 00:34:52.864  2046  2141 I chatty  : uid=1000(system) InputDispatcher identical 3 lines
+10-06 00:34:52.876  2046  2141 V InputDispatcher: Asynchronous input event injection succeeded.
+10-06 00:34:53.087  8614  8645 W xample.doggler: Accessing hidden method Lsun/misc/Unsafe;->compareAndSwapObject(Ljava/lang/Object;JLjava/lang/Object;Ljava/lang/Object;)Z (greylist, linking, allowed)
+10-06 00:34:53.090  8614  8614 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Faye"
+10-06 00:34:53.107  8614  8614 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@17057d7 in: PAUSED
+10-06 00:34:53.107  8614  8614 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.dogglers.VerticalListActivity@17057d7
+10-06 00:34:53.108  2046  5955 W InputReader: Device has associated, but no associated display id.
+10-06 00:34:53.111  2046  5955 I chatty  : uid=1000(system) Binder:2046_1F identical 48 lines
+10-06 00:34:53.111  2046  5955 W InputReader: Device has associated, but no associated display id.
+10-06 00:34:53.112  8614  8614 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@ba7ee75
+10-06 00:34:53.146  8614  8614 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@4a65e0a in: PRE_ON_CREATE
+10-06 00:34:53.147  8614  8614 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@4a65e0a
+10-06 00:34:53.152  8614  8614 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@4a65e0a in: CREATED
+10-06 00:34:53.153  8614  8614 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@4a65e0a
+10-06 00:34:53.154  8614  8614 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@4a65e0a in: STARTED
+10-06 00:34:53.154  8614  8614 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@4a65e0a
+10-06 00:34:53.156  8614  8614 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@4a65e0a in: RESUMED
+10-06 00:34:53.156  8614  8614 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@4a65e0a
+10-06 00:34:53.184  1794  2469 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 9592832
+10-06 00:34:53.195  1794  2469 I chatty  : uid=1000(system) HwBinder:1794_2 identical 1 line
+10-06 00:34:53.203  1794  2469 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 9592832
+10-06 00:34:53.227  8614  8647 D EGL_emulation: eglMakeCurrent: 0xeab544c0: ver 3 0 (tinfo 0xdf9f4530)
+10-06 00:34:53.247  8614  8647 D EGL_emulation: eglMakeCurrent: 0xeab544c0: ver 3 0 (tinfo 0xdf9f4530)
+10-06 00:34:53.250  2046  2069 W InputReader: Device has associated, but no associated display id.
+10-06 00:34:53.250  2046  2069 I chatty  : uid=1000(system) android.anim identical 18 lines
+10-06 00:34:53.250  2046  2069 W InputReader: Device has associated, but no associated display id.
+10-06 00:34:53.263  8614  8647 D EGL_emulation: eglMakeCurrent: 0xeab544c0: ver 3 0 (tinfo 0xdf9f4530)
+10-06 00:34:53.270  8614  8647 D EGL_emulation: eglMakeCurrent: 0xeab544c0: ver 3 0 (tinfo 0xdf9f4530)
+10-06 00:34:53.285  8614  8614 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@17057d7 in: STOPPED
+10-06 00:34:53.286  8614  8614 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.example.dogglers.VerticalListActivity@17057d7
+10-06 00:34:53.287  8614  8614 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.VerticalListActivity@17057d7 in: DESTROYED
+10-06 00:34:53.287  8614  8614 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+10-06 00:34:53.296  8614  8614 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@4a65e0a in: PAUSED
+10-06 00:34:53.296  8614  8614 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@4a65e0a
+10-06 00:34:53.297  2046  2063 W InputReader: Device has associated, but no associated display id.
+10-06 00:34:53.301  2046  2063 I chatty  : uid=1000(system) Binder:2046_2 identical 48 lines
+10-06 00:34:53.301  2046  2063 W InputReader: Device has associated, but no associated display id.
+10-06 00:34:53.303  8614  8614 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@67fdaf5 in: DESTROYED
+10-06 00:34:53.303  8614  8614 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@67fdaf5
+10-06 00:34:53.304  8614  8614 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@71409f3
+10-06 00:34:53.312  8614  8614 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@38276b0 in: PRE_ON_CREATE
+10-06 00:34:53.313  8614  8614 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@38276b0
+10-06 00:34:53.318  8614  8614 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@38276b0 in: CREATED
+10-06 00:34:53.319  8614  8614 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@38276b0
+10-06 00:34:53.320  8614  8614 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@38276b0 in: STARTED
+10-06 00:34:53.321  8614  8614 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@38276b0
+10-06 00:34:53.322  8614  8614 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@38276b0 in: RESUMED
+10-06 00:34:53.323  8614  8614 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@38276b0
+10-06 00:34:53.341  1794  2469 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 9592832
+10-06 00:34:53.350  1794  2469 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 9592832
+10-06 00:34:53.360  8614  8647 D EGL_emulation: eglMakeCurrent: 0xeab544c0: ver 3 0 (tinfo 0xdf9f4530)
+10-06 00:34:53.364  1794  2469 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 9592832
+10-06 00:34:53.382  2046  2069 W InputReader: Device has associated, but no associated display id.
+10-06 00:34:53.383  2046  2069 I chatty  : uid=1000(system) android.anim identical 18 lines
+10-06 00:34:53.383  2046  2069 W InputReader: Device has associated, but no associated display id.
+10-06 00:34:53.391  2046  2123 W InputReader: Device has associated, but no associated display id.
+10-06 00:34:53.391  2046  2123 I chatty  : uid=1000(system) Binder:2046_3 identical 8 lines
+10-06 00:34:53.391  2046  2123 W InputReader: Device has associated, but no associated display id.
+10-06 00:34:53.414  8614  8614 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@38276b0 in: PAUSED
+10-06 00:34:53.414  8614  8614 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.VerticalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@38276b0
+10-06 00:34:53.416  2046  2063 W InputReader: Device has associated, but no associated display id.
+10-06 00:34:53.416  2046  2063 I chatty  : uid=1000(system) Binder:2046_2 identical 8 lines
+10-06 00:34:53.416  2046  2063 W InputReader: Device has associated, but no associated display id.
+10-06 00:34:53.421  8614  8645 I TestRunner: finished: vertical_scrolling(com.example.dogglers.VerticalListTests)
