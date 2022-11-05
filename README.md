@@ -1,27 +1,10 @@
-Dogglers - Starter Code
-==================================
+# Dogglers 
 
-Starter code for the second independent project for [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course).
+This is the second project in Google's Android Developer Course (Unit 2: Layouts)
 
-Introduction
-------------
+- Grid/Horizontal/Vertical RecyclerView
+- Intents
+- Viewbinding
+- ConstraintLayout
 
-This is the starter code for the Dogglers app project in the [final pathway](https://developer.android.com/courses/pathways/android-basics-kotlin-unit-2-pathway-3) of Android Basics [Unit 2](https://developer.android.com/courses/android-basics-kotlin/unit-2). This project is an opportunity for you to demonstrate the concepts you learned in the unit.
-
-Pre-requisites
---------------
-
-- Complete [Unit 2](https://developer.android.com/courses/android-basics-kotlin/unit-2) of Android Basics in Kotlin
-
-Getting Started
----------------
-
-1. Download the starter code
-2. Open the project in Android Studio
-3. Complete the project in accordance with the [project instructions](https://developer.android.com/codelabs/basic-android-kotlin-training-project-dogglers-app?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-kotlin-unit-2-pathway-3%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-training-project-dogglers-app#0)
-
-Tips
-----
-
-- Use the provided tests to ensure your app is running as expected
-- DO NOT ALTER THE PROVIDED TESTS
+<img width="158" alt="original_1" src="https://user-images.githubusercontent.com/115426604/200140370-1440608e-66af-4c29-9a5f-3d4ca5972a9a.png">  <img width="158" alt="original_2" src="https://user-images.githubusercontent.com/115426604/200140373-1c3d9361-46bd-4e0d-a985-e545226746a1.png">  <img width="157" alt="original_3" src="https://user-images.githubusercontent.com/115426604/200140376-933a18e4-cf98-4df2-acf1-b1e520ee7305.png">  <img width="158" alt="original_4" src="https://user-images.githubusercontent.com/115426604/200140377-9027973d-7e88-4633-abd5-94fc00a5ccd1.png">
